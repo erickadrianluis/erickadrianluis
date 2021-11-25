@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erickadrianluis
-- 👀 I’m interested in data analysis and looking to find ways to practice and implement new skills. 
-- 🌱 I’m currently learning SQL, Python, and R. 
+- 👀 I’m interested in data analysis and looking to find ways to practice and implement new skills. I want to demonstrate I know the basics and can work my way through data in SQl and R. I am not the cleanest, yet. I don't know if I will be great, but I'll always learn and I can be a good analyst with great habits. 
+- 🌱 I’m currently practicing SQL, Python, and R. 
 
 - 📫 How to reach me ... erickluis.adrian@gmail.com or https://www.linkedin.com/in/erickluis/
 
